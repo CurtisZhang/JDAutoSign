@@ -1,7 +1,10 @@
 # JDAutoSign
 适用于 JD 员工，可实现内网 ERP 定时打卡，请勿违规使用。
+
 只是个熟悉 Selenium 的实操，欢迎指正～
+
 详细介绍：http://www.curtiswho.com/archives/14/
+
 个人 Blog： http://www.curtiswho.com 
 
 ## 原理
