@@ -1,5 +1,5 @@
-# JDAutoSign
-适用于狗东 ERP，可实现内网环境下 ERP 定时打卡，请勿违规使用。
+# AutoSignExample
+仅以某 ERP 为例，可实现内网环境下 ERP 定时打卡，请勿违规使用。
 
 只是个熟悉 Selenium 的实操，欢迎指正～
 
